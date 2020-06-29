@@ -3,7 +3,7 @@ Natural Language Processing models using private and secure data. Powered by Ope
 
 ## Getting Started
 Follow the instructions to install:
-- [PySyft](https://github.com/OpenMined/PySyft)==0.2.5. There is an incompatibility issue with Tensorflow on version 0.2.6) and
+- [PySyft](https://github.com/OpenMined/PySyft)==0.2.5. There is an incompatibility issue with Tensorflow on version 0.2.6
 - [SyferText](https://github.com/OpenMined/SyferText)
 
 ## Data
