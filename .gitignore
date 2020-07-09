@@ -2,3 +2,6 @@ notebooks/drafts
 notebooks/runs
 notebooks/imdb
 models/
+bow_img/
+data/ag_news_csv
+img/bs*

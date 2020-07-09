@@ -1,6 +1,9 @@
 # private_nlp
 Natural Language Processing models using private and secure data. Powered by OpenMined's tools [PySyft](https://github.com/OpenMined/PySyft) and [SyferText](https://github.com/OpenMined/SyferText).
 
+## blog post
+The contents of this repo were featured in a [blog post](https://blog.openmined.org/encrypted-training-medical-text-syfertext/) at [OpenMined's blog](https://blog.openmined.org/)
+
 ## Disclaimer
 This is an ongoing work in progress. Be prepared to tackle coding errors and/or typos.
 
