@@ -1,8 +1,8 @@
 # private_nlp
 Natural Language Processing models using private and secure data. Powered by OpenMined's tools [PySyft](https://github.com/OpenMined/PySyft) and [SyferText](https://github.com/OpenMined/SyferText).
 
-## blog post
-The contents of this repo were featured in a [blog post](https://blog.openmined.org/encrypted-training-medical-text-syfertext/) at [OpenMined's blog](https://blog.openmined.org/)
+## Blog post
+The contents of this repo were featured in the [Encrypted training on medical text data using SyferText and PyTorch](https://blog.openmined.org/encrypted-training-medical-text-syfertext/) blog post at [OpenMined's blog](https://blog.openmined.org/)
 
 ## Disclaimer
 This is an ongoing work in progress. Be prepared to tackle coding errors and/or typos.
@@ -31,7 +31,7 @@ Dataset compiled for Natural Language Processing using a corpus of medical trans
 ## Notebooks
 - [Data Modelling](https://github.com/socd06/private_nlp/blob/master/notebooks/medical-text-data-modelling.ipynb): Data exploration and feature engineering using Pandas, matplotlib and Seaborn and consolidation of dataset using scikit-learn.
 
-- [Medical text data exploration](https://github.com/socd06/private_nlp/blob/master/notebooks/medical-text-data-exploration.ipynb): An introduction to data exploration of medical text using Pandas, matplotlib and Seaborn. **NOTE**: Deprecated. See [Data Modelling](https://github.com/socd06/private_nlp/blob/master/notebooks/medical-text-data-modelling.ipynb) instead.
+- [Medical text data exploration](https://github.com/socd06/private_nlp/blob/master/notebooks/medical-text-data-exploration.ipynb): An introduction to data exploration of medical text using Pandas, matplotlib and Seaborn. **NOTE**: Deprecated. Use [Data Modelling](https://github.com/socd06/private_nlp/blob/master/notebooks/medical-text-data-modelling.ipynb) instead.
 
 - [Medical text encrypted training](https://github.com/socd06/private_nlp/blob/master/notebooks/medical-text-encrypted-training.ipynb): Tutorial on how to train an NLP model of data you cannot see using [PySyft](https://github.com/OpenMined/PySyft) and [SyferText](https://github.com/OpenMined/SyferText). Heavily inspired by [Alan Aboudib's](https://twitter.com/alan_aboudib) [Sentiment classification using SyferText use case](https://github.com/OpenMined/SyferText/blob/master/tutorials/usecases/UC01%20-%20Sentiment%20Classifier%20-%20Private%20Datasets%20-%20(Secure%20Training).ipynb). **WARNING**: This is an ongoing project, be wary of errors.
 
